@@ -1,0 +1,27 @@
+/* Estilos generales */
+body {
+    background-color: #f8f9fa;
+    font-family: Arial, sans-serif;
+}
+
+/* Contenedor principal */
+.container {
+    margin-top: 20px;
+}
+
+/* Botones */
+.btn {
+    margin-right: 5px;
+}
+
+/* Tabla */
+.table {
+    background-color: white;
+    border-radius: 5px;
+    overflow: hidden;
+}
+
+/* Encabezado */
+h1 {
+    color: #343a40;
+}
